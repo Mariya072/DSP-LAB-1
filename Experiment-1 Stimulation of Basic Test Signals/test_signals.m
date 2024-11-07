@@ -63,5 +63,5 @@ y8 = exp(t8); stem(t8,y8); hold on; plot(t8,y8);
 xlabel("Time(s)"); ylabel("Amplitude"); title("Exponential Signal");
 legend("Discrete","Continuous");
 subplot(3,3,9);
-t9 = -5:1:5;
+t9 = -5:1:5;!
 y9 = [zeros(1,5),ones(1,6)]; stem(t9,y9); xlabel("Time(s)"); ylabel("Amplitude"); title("Unit Step Signal");
