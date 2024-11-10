@@ -7,8 +7,7 @@ MATLAB
 ## Table of Contents
 1.	Simulation of Basic Test Signals
 2.	Verification of Sampling Theorem
-3.	Linear Convolution
-   - Using Built in Function
+3.	Linear Convolution-Using Built in Function
 
 	Without using Built in Function
 5.	Circular Convolution
