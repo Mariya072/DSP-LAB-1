@@ -9,7 +9,7 @@ MATLAB
 2.	Verification of Sampling Theorem
 3.	Linear Convolution
    
-   	Using Built in Function
+   - Using Built in Function
 	Without using Built in Function
 5.	Circular Convolution
 	Concentric circle method
