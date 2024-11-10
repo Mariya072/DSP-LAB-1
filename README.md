@@ -13,14 +13,15 @@ MATLAB
   	
      	Without using Built in Function
 5.	Circular Convolution
+   
      	Concentric circle method
      	Matrix Method
      	FFT Method
-6.	Linear Convolution using Circular Convolution and Vice versa
-7.	DFT and IDFT
+7.	Linear Convolution using Circular Convolution and Vice versa
+8.	DFT and IDFT
     	Without using Built in Function
     	Using Built in Function
-8.	Properties of DFT
+9.	Properties of DFT
     	Linearity
     	Periodicity
     	Circular Time Shift
