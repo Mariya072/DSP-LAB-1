@@ -24,3 +24,7 @@ DFT{x1[n]⋅x2[n]} =
 𝟏
 𝑵
 DFT{x1[n]}⊛DFT{x2[n]}
+
+# Observation
+![WhatsApp Image 2024-11-10 at 12 41 25_fd9a86df](https://github.com/user-attachments/assets/6654974f-48c0-4f5f-8939-c59ae207b4bf)
+
