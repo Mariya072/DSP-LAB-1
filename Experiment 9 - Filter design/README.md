@@ -4,11 +4,9 @@ Finite Impulse Response (FIR) filters are a type of digital filter characterized
 ![WhatsApp Image 2024-11-11 at 00 18 49_ec2aa924](https://github.com/user-attachments/assets/d406d3dc-8041-4b59-9a53-6d3f31961717)
 
 ## Observation
+
 - BandPass Filter And LowPass Filter
 ![WhatsApp Image 2024-11-11 at 00 35 27_27b094c3](https://github.com/user-attachments/assets/fe4b62f7-3333-424f-bac5-7830f8dd2527)
-
-  
-
 
 - HighPass Filter and Bandstop Filter
   ![WhatsApp Image 2024-11-11 at 00 34 52_0ff26994](https://github.com/user-attachments/assets/3fd2cf78-bab7-46e0-85f6-ea71cc4fd5f4)
