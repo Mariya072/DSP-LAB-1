@@ -8,26 +8,23 @@ MATLAB
 1.	Simulation of Basic Test Signals
 2.	Verification of Sampling Theorem
 3.	Linear Convolution
-
-      Using Built in Function
-  	
-     	Without using Built in Function
-5.	Circular Convolution
-   
-     	Concentric circle method
-     	Matrix Method
-     	FFT Method
-7.	Linear Convolution using Circular Convolution and Vice versa
-8.	DFT and IDFT
-    	Without using Built in Function
-    	Using Built in Function
-9.	Properties of DFT
-    	Linearity
-    	Periodicity
-    	Circular Time Shift
-    	Circular Frequency Shift
-    	Multiplication
-    	Circular Convolution
-    	Parseval’s Relation
+	Using Built in Function
+	Without using Built in Function
+4.	Circular Convolution
+	Concentric circle method
+	Matrix Method
+	FFT Method
+5.	Linear Convolution using Circular Convolution and Vice versa
+6.	DFT and IDFT
+	Without using Built in Function
+	Using Built in Function
+7.	Properties of DFT
+	Linearity
+	Periodicity
+	Circular Time Shift
+	Circular Frequency Shift
+	Multiplication
+	Circular Convolution
+	Parseval’s Relation
 
 
