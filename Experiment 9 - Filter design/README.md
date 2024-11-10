@@ -4,7 +4,7 @@ Finite Impulse Response (FIR) filters are a type of digital filter characterized
 ![WhatsApp Image 2024-11-11 at 00 18 49_ec2aa924](https://github.com/user-attachments/assets/d406d3dc-8041-4b59-9a53-6d3f31961717)
 
 ## Observation
-Different filters 
+
 ![WhatsApp Image 2024-11-11 at 00 41 30_28fa52a3](https://github.com/user-attachments/assets/cdfe3422-79ee-40b5-939b-27b9bda956a8)
 
 
